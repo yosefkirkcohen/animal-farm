@@ -35,5 +35,23 @@ horsePhoto.addEventListener('click', () => {
         animalName.textContent = "horse";
 })
 
+// document.addEventListener('keydown', logKeyc);
 
+// function logKeyc(c) {
+//   catSound.play();
+//   animalName.textContent = "cat";
+// }
 
+// document.addEventListener('keydown', logKeyd);
+
+// function logKeyd(d) {
+//   dogSound.play();
+//   animalName.textContent = "dog";
+// }
+
+// document.addEventListener('keydown', logKeyh);
+
+// function logKeyh(h) {
+//   horseSound.play();
+//   animalName.textContent = "horse";
+// }
